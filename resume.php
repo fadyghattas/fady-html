@@ -4,7 +4,7 @@
     <title>Fady Ghattas | Resume</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/bootstrap.min.css">
-
+<link rel="icon" href="/images/favicon.ico" >
   </head>
 <body>
 
@@ -18,7 +18,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="resume.html">Fady Ghattas</a>
+      <a class="navbar-brand" href="resume.php">Fady Ghattas</a>
     </div>
 
     <!-- Collect the nav links, forms, and other content for toggling -->
