@@ -1,25 +1,123 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>My First Web Page</title>
- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
- 
+    <title>Fady Ghattas | Resume</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="icon" href="/images/favicon.ico" >
   </head>
 <body>
-    <h1>Hello World</h1>
-    <p>My Name Is Fady Ghattas!!!! </p>
 
-<button class="btn btn-default" type="submit">Button</button>
+<nav class="navbar navbar-default">
+  <div class="container">
+    <!-- Brand and toggle get grouped for better mobile display -->
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="resume.php">Fady Ghattas</a>
+    </div>
 
-<span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+     
+     
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="personal_statement.html">Personal Statement</a></li>
+       
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container-fluid -->
+</nav>
 
-<div class="alert alert-success" role="alert">This is an Alert!</div>
 
 
+<div class="container">
+       
+       <!-- Career-->
+        <div class="panel panel-default">
+        <div class="panel-heading"><h3 class="panel-title"><strong>Web Developper</strong></h3></div>
+        <div class="panel-body">
+            
+            <div class="col-md-8">
+            <strong>Lorum Ipsum</strong> 
+            <br/>
+            <p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pharetra velit varius euismod facilisis. Morbi aliquam urna magna, 
+            eget consectetur arcu feugiat quis. Mauris ultrices auctor felis, quis euismod dolor dapibus nec. Etiam porta consequat ante, sed 
+            consequat lacus porta aliquam. Ut sit amet hendrerit tellus. Nulla maximus lacus dui.</p><br/>
+            </div>
+            <div class="col-md-4" align="right"><em>2018 - 2018</em></div>
+            
+            
+              <div class="col-md-8">
+            <strong>Lorum Ipsum</strong> 
+            <br/>
+            <p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pharetra velit varius euismod facilisis. Morbi aliquam urna magna, 
+            eget consectetur arcu feugiat quis. Mauris ultrices auctor felis, quis euismod dolor dapibus nec. Etiam porta consequat ante, sed 
+            consequat lacus porta aliquam. Ut sit amet hendrerit tellus. Nulla maximus lacus dui.</p><br/>
+            </div>
+            <div class="col-md-4" align="right"><em>2018 - 2018</em></div>
+            
+            
+                          <div class="col-md-8">
+            <strong>Lorum Ipsum</strong> 
+            <br/>
+            <p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pharetra velit varius euismod facilisis. Morbi aliquam urna magna, 
+            eget consectetur arcu feugiat quis. Mauris ultrices auctor felis, quis euismod dolor dapibus nec. Etiam porta consequat ante, sed 
+            consequat lacus porta aliquam. Ut sit amet hendrerit tellus. Nulla maximus lacus dui.</p><br/>
+            </div>
+            <div class="col-md-4" align="right"><em>2018 - 2018</em></div>
+            
+        </div>
+        </div>
+<br/><br/> 
+        
+        <!-- Skills-->
+        <div class="panel panel-default">
+        <div class="panel-heading"><h3 class="panel-title"><strong>Skills</strong></h3></div>
+        <div class="panel-body">
+            <div class="col-md-3"><strong>Lorum Ipsum</strong> <br/>
+            <p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pharetra velit varius euismod facilisis. Morbi aliquam urna magna, 
+            eget consectetur arcu feugiat quis. Mauris ultrices auctor felis, quis euismod dolor dapibus nec. Etiam porta consequat ante, sed 
+            consequat lacus porta aliquam. Ut sit amet hendrerit tellus. Nulla maximus lacus dui.</p><br/></div>
+            <div class="col-md-3"><strong>Lorum Ipsum</strong> <br/>
+            <p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pharetra velit varius euismod facilisis. Morbi aliquam urna magna, 
+            eget consectetur arcu feugiat quis. Mauris ultrices auctor felis, quis euismod dolor dapibus nec. Etiam porta consequat ante, sed 
+            consequat lacus porta aliquam. Ut sit amet hendrerit tellus. Nulla maximus lacus dui.</p><br/></div>
+            <div class="col-md-3"><strong>Lorum Ipsum</strong> <br/>
+            <p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pharetra velit varius euismod facilisis. Morbi aliquam urna magna, 
+            eget consectetur arcu feugiat quis. Mauris ultrices auctor felis, quis euismod dolor dapibus nec. Etiam porta consequat ante, sed 
+            consequat lacus porta aliquam. Ut sit amet hendrerit tellus. Nulla maximus lacus dui.</p><br/></div>
+            <div class="col-md-3"><strong>Lorum Ipsum</strong> <br/>
+            <p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pharetra velit varius euismod facilisis. Morbi aliquam urna magna, 
+            eget consectetur arcu feugiat quis. Mauris ultrices auctor felis, quis euismod dolor dapibus nec. Etiam porta consequat ante, sed 
+            consequat lacus porta aliquam. Ut sit amet hendrerit tellus. Nulla maximus lacus dui.</p><br/></div>
+        </div>
+        </div>
+<br/><br/> 
+        
+        <!-- Education-->
+        <div class="panel panel-default">
+        <div class="panel-heading"><h3 class="panel-title"><strong>Education</strong></h3></div>
+        <div class="panel-body">
+            <div class="col-md-1">
+            <img src="images/sagesse.jpg" style="width:75%"></img></div>
+            <div class="col-md-3"><strong>Lorum Ipsum</strong> <br/>
+            <p align="justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean pharetra velit varius euismod facilisis. Morbi aliquam urna magna, 
+            eget consectetur arcu feugiat quis.</p><br/></div>
+        </div>
+        </div>
+<br/><br/>
+       <p align="center"> <small>&copy; Fady Ghattas - All Rights Reserved</small></p>
 
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+</div>
+
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
